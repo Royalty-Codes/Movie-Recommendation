@@ -1,0 +1,10 @@
+data/
+*.pkl
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+results/cache/
+results/logs/
+.streamlit/secrets.toml
+*.egg-info/

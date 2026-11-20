@@ -1,0 +1,7 @@
+{
+  "config_hash": "6a2677c20837731d",
+  "v1_core_validation_hr": 0.3425238600212089,
+  "v2_core_validation_hr": 0.574761399787911,
+  "improved": true,
+  "historical_number_reproduction": "Not verified: original 5-seed benchmark script and exact candidate pools were not supplied. New val/test split differs."
+}

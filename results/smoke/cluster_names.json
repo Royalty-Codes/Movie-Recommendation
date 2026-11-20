@@ -1,0 +1,77 @@
+{
+  "config_hash": "e84d278fd6adbe92",
+  "clusters": {
+    "0": {
+      "name": "Western / Film-Noir / Mystery",
+      "representative_titles": [
+        "Waiting for Guffman (1996)",
+        "Donnie Brasco (1997)",
+        "City Hall (1996)"
+      ],
+      "size": 160
+    },
+    "1": {
+      "name": "Horror / Documentary / Mystery",
+      "representative_titles": [
+        "Dangerous Beauty (1998)",
+        "One Night Stand (1997)",
+        "Blues Brothers 2000 (1998)"
+      ],
+      "size": 151
+    },
+    "2": {
+      "name": "Horror / Film-Noir / Fantasy",
+      "representative_titles": [
+        "M (1931)",
+        "Bride of Frankenstein (1935)",
+        "Dial M for Murder (1954)"
+      ],
+      "size": 131
+    },
+    "3": {
+      "name": "Drama / War / Thriller",
+      "representative_titles": [
+        "Game, The (1997)",
+        "Cop Land (1997)",
+        "Conspiracy Theory (1997)"
+      ],
+      "size": 125
+    },
+    "4": {
+      "name": "unknown / Documentary / Drama",
+      "representative_titles": [
+        "Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)",
+        "Antonia's Line (1995)",
+        "Brothers McMullen, The (1995)"
+      ],
+      "size": 164
+    },
+    "5": {
+      "name": "Action / Sci-Fi / Western",
+      "representative_titles": [
+        "Under Siege (1992)",
+        "Vegas Vacation (1997)",
+        "Batman Returns (1992)"
+      ],
+      "size": 174
+    },
+    "6": {
+      "name": "Animation / Fantasy / Children's",
+      "representative_titles": [
+        "Beauty and the Beast (1991)",
+        "Fantasia (1940)",
+        "Lion King, The (1994)"
+      ],
+      "size": 144
+    },
+    "7": {
+      "name": "Thriller / Drama / Horror",
+      "representative_titles": [
+        "Red Rock West (1992)",
+        "Breakdown (1997)",
+        "Piano, The (1993)"
+      ],
+      "size": 184
+    }
+  }
+}

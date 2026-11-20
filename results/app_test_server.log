@@ -1,0 +1,8 @@
+2026-11-16 09:42:20.152 Uvicorn server started on 127.0.0.1:8765
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://127.0.0.1:8765
+
+C:\Users\roydo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pgmpy\estimators\__init__.py:4: FutureWarning: `pgmpy.estimators.StructureScore` is deprecated and will be removed in v1.3.0. Use `pgmpy.structure_score` instead.
+  from .StructureScore import (

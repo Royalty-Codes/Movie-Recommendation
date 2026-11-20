@@ -1,0 +1,4 @@
+Method,Sequential,Collaborative,Explanation,Evaluation,config_hash
+KeudjeuHMM,Yes,Yes,No,P0 original; P1/P2 here,e84d278fd6adbe92
+SVD-MF,No,Yes,No,P1/P2,e84d278fd6adbe92
+TasteTrace-v2,Yes,Yes,Yes,P1/P2,e84d278fd6adbe92

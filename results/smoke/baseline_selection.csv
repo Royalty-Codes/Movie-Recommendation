@@ -1,0 +1,8 @@
+method,parameters,validation_hr,config_hash
+SVD-MF,"{""dim"": 16, ""seed"": 42}",0.55,e84d278fd6adbe92
+SVD-MF,"{""dim"": 32, ""seed"": 42}",0.57,e84d278fd6adbe92
+ItemKNN,"{""neighbors"": 20, ""seed"": 42}",0.57,e84d278fd6adbe92
+UserKNN,"{""neighbors"": 20, ""seed"": 42}",0.59,e84d278fd6adbe92
+BPR-MF,"{""dim"": 16, ""epochs"": 5, ""lr"": 0.03, ""reg"": 0.002, ""seed"": 42}",0.48,e84d278fd6adbe92
+KeudjeuHMM,"{""window"": 20, ""neighbors"": 10}",0.57,e84d278fd6adbe92
+KeudjeuHMM+fallback,"{""window"": 20, ""neighbors"": 10}",0.57,e84d278fd6adbe92

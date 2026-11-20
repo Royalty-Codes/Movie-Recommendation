@@ -1,0 +1,1 @@
+WARNING:pgmpy:Variables: ['taste_cluster', 'primary_genre', 'era', 'popularity_tier', 'avg_rating_tier'] are likely categorical, but using numerical values. Please set the dtype as `categorical` in pandas dataframe if that's the case, otherwise ignore this warning.

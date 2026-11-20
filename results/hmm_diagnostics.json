@@ -1,0 +1,45 @@
+{
+  "config_hash": "6a2677c20837731d",
+  "restarts": [
+    {
+      "requested_states": 8,
+      "states": 8,
+      "restart": 0,
+      "log_likelihood": -228907.3726960784,
+      "min_occupancy": 0.0309639806755407,
+      "valid": true
+    },
+    {
+      "requested_states": 8,
+      "states": 8,
+      "restart": 1,
+      "log_likelihood": -232243.72290838108,
+      "min_occupancy": 0.006512832011741443,
+      "valid": false
+    },
+    {
+      "requested_states": 8,
+      "states": 8,
+      "restart": 2,
+      "log_likelihood": -244091.71039408134,
+      "min_occupancy": 0.018743502456326316,
+      "valid": true
+    },
+    {
+      "requested_states": 8,
+      "states": 8,
+      "restart": 3,
+      "log_likelihood": -242438.0984872563,
+      "min_occupancy": 0.06755406975559043,
+      "valid": true
+    },
+    {
+      "requested_states": 8,
+      "states": 8,
+      "restart": 4,
+      "log_likelihood": -242160.6179934112,
+      "min_occupancy": 0.07190614998878855,
+      "valid": true
+    }
+  ]
+}

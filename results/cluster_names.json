@@ -1,0 +1,221 @@
+{
+  "config_hash": "6a2677c20837731d",
+  "clusters": {
+    "0": {
+      "name": "Musical / War / Sci-Fi",
+      "representative_titles": [
+        "Platoon (1986)",
+        "On Golden Pond (1981)",
+        "Victor/Victoria (1982)"
+      ],
+      "size": 54
+    },
+    "1": {
+      "name": "Children's / Comedy / Fantasy",
+      "representative_titles": [
+        "Houseguest (1994)",
+        "Coneheads (1993)",
+        "Nine Months (1995)"
+      ],
+      "size": 69
+    },
+    "2": {
+      "name": "Documentary / Western / Children's",
+      "representative_titles": [
+        "Sliding Doors (1998)",
+        "Hugo Pool (1997)",
+        "The Innocent (1994)"
+      ],
+      "size": 129
+    },
+    "3": {
+      "name": "Film-Noir / Musical / Mystery",
+      "representative_titles": [
+        "Ice Storm, The (1997)",
+        "Ulee's Gold (1997)",
+        "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)"
+      ],
+      "size": 29
+    },
+    "4": {
+      "name": "Mystery / Fantasy / Thriller",
+      "representative_titles": [
+        "Leave It to Beaver (1997)",
+        "Hoodlum (1997)",
+        "Money Talks (1997)"
+      ],
+      "size": 63
+    },
+    "5": {
+      "name": "Crime / Drama / Mystery",
+      "representative_titles": [
+        "Breaking the Waves (1996)",
+        "Bound (1996)",
+        "Angels and Insects (1995)"
+      ],
+      "size": 65
+    },
+    "6": {
+      "name": "unknown / Comedy / Documentary",
+      "representative_titles": [
+        "Talking About Sex (1994)",
+        "Late Bloomers (1996)",
+        "Locusts, The (1997)"
+      ],
+      "size": 89
+    },
+    "7": {
+      "name": "War / Film-Noir / Crime",
+      "representative_titles": [
+        "Raging Bull (1980)",
+        "In the Name of the Father (1993)",
+        "Quiz Show (1994)"
+      ],
+      "size": 93
+    },
+    "8": {
+      "name": "Thriller / Mystery / Crime",
+      "representative_titles": [
+        "Fan, The (1996)",
+        "Substitute, The (1996)",
+        "Absolute Power (1997)"
+      ],
+      "size": 50
+    },
+    "9": {
+      "name": "unknown / Crime / Fantasy",
+      "representative_titles": [
+        "Gone Fishin' (1997)",
+        "Trial and Error (1997)",
+        "Grosse Pointe Blank (1997)"
+      ],
+      "size": 81
+    },
+    "10": {
+      "name": "Documentary / Drama / Thriller",
+      "representative_titles": [
+        "Wild Reeds (1994)",
+        "House of Yes, The (1997)",
+        "When the Cats Away (Chacun cherche son chat) (1996)"
+      ],
+      "size": 55
+    },
+    "11": {
+      "name": "Film-Noir / Mystery / War",
+      "representative_titles": [
+        "Philadelphia Story, The (1940)",
+        "Bringing Up Baby (1938)",
+        "All About Eve (1950)"
+      ],
+      "size": 58
+    },
+    "12": {
+      "name": "Western / Animation / Sci-Fi",
+      "representative_titles": [
+        "Exit to Eden (1994)",
+        "Striking Distance (1993)",
+        "Cops and Robbersons (1994)"
+      ],
+      "size": 58
+    },
+    "13": {
+      "name": "Action / Adventure / Sci-Fi",
+      "representative_titles": [
+        "Die Hard: With a Vengeance (1995)",
+        "Stargate (1994)",
+        "GoldenEye (1995)"
+      ],
+      "size": 58
+    },
+    "14": {
+      "name": "Horror / Sci-Fi / Thriller",
+      "representative_titles": [
+        "Candyman (1992)",
+        "Amityville Horror, The (1979)",
+        "Nightmare on Elm Street, A (1984)"
+      ],
+      "size": 62
+    },
+    "15": {
+      "name": "Documentary / Drama / Film-Noir",
+      "representative_titles": [
+        "N\u00e9nette et Boni (1996)",
+        "Full Speed (1996)",
+        "What Happened Was... (1994)"
+      ],
+      "size": 127
+    },
+    "16": {
+      "name": "Western / Musical / Adventure",
+      "representative_titles": [
+        "Lost Horizon (1937)",
+        "My Man Godfrey (1936)",
+        "Adventures of Robin Hood, The (1938)"
+      ],
+      "size": 81
+    },
+    "17": {
+      "name": "Horror / Documentary / Fantasy",
+      "representative_titles": [
+        "Bent (1997)",
+        "Amityville 3-D (1983)",
+        "Critical Care (1997)"
+      ],
+      "size": 56
+    },
+    "18": {
+      "name": "Romance / Comedy / Fantasy",
+      "representative_titles": [
+        "French Kiss (1995)",
+        "Beautiful Girls (1996)",
+        "Circle of Friends (1995)"
+      ],
+      "size": 71
+    },
+    "19": {
+      "name": "Animation / Children's / Musical",
+      "representative_titles": [
+        "Snow White and the Seven Dwarfs (1937)",
+        "Dumbo (1941)",
+        "Jungle Book, The (1994)"
+      ],
+      "size": 46
+    },
+    "20": {
+      "name": "Mystery / Film-Noir / Thriller",
+      "representative_titles": [
+        "Postman, The (1997)",
+        "Amistad (1997)",
+        "Rainmaker, The (1997)"
+      ],
+      "size": 63
+    },
+    "21": {
+      "name": "Drama / Romance / Documentary",
+      "representative_titles": [
+        "Eat Drink Man Woman (1994)",
+        "Wings of Desire (1987)",
+        "Like Water For Chocolate (Como agua para chocolate) (1992)"
+      ],
+      "size": 86
+    },
+    "22": {
+      "name": "Western / Action / Crime",
+      "representative_titles": [
+        "Dangerous Minds (1995)",
+        "Carlito's Way (1993)",
+        "Pump Up the Volume (1990)"
+      ],
+      "size": 64
+    },
+    "23": {
+      "name": "Fantasy / Action / Adventure",
+      "representative_titles": [
+        "Multiplicity (1996)",
+        "Nutty Professor, The (1996)",
+        "Grumpier Old Men (1995)"
+      ],
+      "size": 72
+    }
+  }
+}

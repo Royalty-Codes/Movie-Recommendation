@@ -1,0 +1,111 @@
+{
+  "config_hash": "e84d278fd6adbe92",
+  "config": {
+    "dataset": "ml-100k",
+    "data_dir": "data",
+    "results_dir": "results/smoke",
+    "figures_dir": "figures/smoke",
+    "seeds": [
+      7
+    ],
+    "model_seeds": [
+      42
+    ],
+    "threads": 4,
+    "evaluation": {
+      "k": 10,
+      "negatives": 99,
+      "min_interactions": 5,
+      "bootstrap": 500,
+      "permutations": 500
+    },
+    "baselines": {
+      "svd_dims": [
+        16,
+        32
+      ],
+      "knn_neighbors": [
+        20
+      ],
+      "bpr_dims": [
+        16
+      ],
+      "bpr_epochs": [
+        5
+      ],
+      "bpr_lr": 0.03,
+      "bpr_reg": 0.002
+    },
+    "clusters": {
+      "embedding_dims": [
+        16
+      ],
+      "counts": [
+        8
+      ],
+      "n_init": 10
+    },
+    "hmm": {
+      "states": [
+        3
+      ],
+      "restarts": 1,
+      "iterations": 8,
+      "min_occupancy": 0.01
+    },
+    "bn": {
+      "ess": [
+        10
+      ],
+      "max_indegree": 2,
+      "small_state": 500,
+      "shrinkage": 200
+    },
+    "fusion": {
+      "negatives": 99,
+      "l2": [
+        0.001,
+        0.01,
+        0.1,
+        1.0
+      ],
+      "cv_folds": 3,
+      "recent_window": 20,
+      "history_windows": [
+        10,
+        20,
+        40
+      ]
+    },
+    "base_paper": {
+      "windows": [
+        20
+      ],
+      "neighbors": [
+        10
+      ],
+      "iterations": 5,
+      "stationary_power": 100,
+      "epsilon": 1.0,
+      "distance_epsilon": 1e-150
+    }
+  },
+  "source_hash": "6a7b261c9d44af976bcce3f951cb2125d446a5550bf21b4dcad76691955ec26e",
+  "smoke": true,
+  "refit": true,
+  "train_events": 10819,
+  "validation_events": 100,
+  "test_events": 100,
+  "training_fingerprint": "3968b428ffe99756db30cfcae14b52425b9a125e2b01f5370d46f40802ab27ae",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "versions": {
+    "numpy": "2.3.4",
+    "pandas": "2.3.3",
+    "scipy": "1.16.2",
+    "scikit-learn": "1.7.2",
+    "hmmlearn": "0.3.3",
+    "pgmpy": "1.1.2",
+    "streamlit": "1.67.0",
+    "numba": "0.65.1"
+  }
+}

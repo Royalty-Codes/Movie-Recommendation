@@ -1,0 +1,4 @@
+parameter,value,cv_loss,config_hash
+history_window,10,0.3404121764815331,e84d278fd6adbe92
+history_window,20,0.3554183186226801,e84d278fd6adbe92
+history_window,40,0.34371754097145374,e84d278fd6adbe92

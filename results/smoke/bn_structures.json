@@ -1,0 +1,71 @@
+{
+  "config_hash": "e84d278fd6adbe92",
+  "edges": {
+    "0": [
+      [
+        "taste_cluster",
+        "popularity_tier"
+      ],
+      [
+        "primary_genre",
+        "avg_rating_tier"
+      ],
+      [
+        "avg_rating_tier",
+        "era"
+      ],
+      [
+        "era",
+        "taste_cluster"
+      ]
+    ],
+    "1": [
+      [
+        "taste_cluster",
+        "popularity_tier"
+      ],
+      [
+        "popularity_tier",
+        "avg_rating_tier"
+      ],
+      [
+        "avg_rating_tier",
+        "era"
+      ],
+      [
+        "avg_rating_tier",
+        "primary_genre"
+      ]
+    ],
+    "2": [
+      [
+        "taste_cluster",
+        "primary_genre"
+      ],
+      [
+        "taste_cluster",
+        "popularity_tier"
+      ],
+      [
+        "era",
+        "taste_cluster"
+      ],
+      [
+        "era",
+        "primary_genre"
+      ],
+      [
+        "avg_rating_tier",
+        "era"
+      ],
+      [
+        "avg_rating_tier",
+        "taste_cluster"
+      ],
+      [
+        "avg_rating_tier",
+        "popularity_tier"
+      ]
+    ]
+  }
+}

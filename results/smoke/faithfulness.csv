@@ -1,0 +1,10 @@
+metric,mean,ci_low,ci_high,config_hash
+rank_drop,41.443999999999996,38.075700000000005,44.81202499999999,e84d278fd6adbe92
+control_rank_drop,4.4910000000000005,4.0249,4.967149999999999,e84d278fd6adbe92
+faithful,1.0,1.0,1.0,e84d278fd6adbe92
+evidence,1.0,1.0,1.0,e84d278fd6adbe92
+distinct_strings,898.0,,,e84d278fd6adbe92
+explanation_count,1000.0,,,e84d278fd6adbe92
+mean_jaccard,0.26566093698850257,,,e84d278fd6adbe92
+evidence_coverage,1.0,,,e84d278fd6adbe92
+sufficiency_ndcg_retained,1.3924198330546913,,,e84d278fd6adbe92

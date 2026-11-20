@@ -1,0 +1,13 @@
+{
+  "config_hash": "6a2677c20837731d",
+  "status": "passed",
+  "evaluated_users": 943,
+  "methods": 11,
+  "metric_rows": 186714,
+  "verified_explanations": 9430,
+  "source_matches": true,
+  "grounded_evidence": true,
+  "test_history_leakage": false,
+  "all_metric_aggregates_match": true,
+  "ablation_variants": 9
+}

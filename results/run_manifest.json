@@ -1,0 +1,142 @@
+{
+  "config_hash": "6a2677c20837731d",
+  "config": {
+    "dataset": "ml-100k",
+    "data_dir": "data",
+    "results_dir": "results",
+    "figures_dir": "figures",
+    "seeds": [
+      7,
+      17,
+      27,
+      37,
+      47
+    ],
+    "model_seeds": [
+      42,
+      52,
+      62
+    ],
+    "threads": 4,
+    "evaluation": {
+      "k": 10,
+      "negatives": 99,
+      "min_interactions": 5,
+      "bootstrap": 10000,
+      "permutations": 10000
+    },
+    "baselines": {
+      "svd_dims": [
+        16,
+        32,
+        64,
+        128
+      ],
+      "knn_neighbors": [
+        20,
+        50,
+        100
+      ],
+      "bpr_dims": [
+        32,
+        64
+      ],
+      "bpr_epochs": [
+        30,
+        60
+      ],
+      "bpr_lr": 0.03,
+      "bpr_reg": 0.002
+    },
+    "clusters": {
+      "embedding_dims": [
+        16,
+        32,
+        64
+      ],
+      "counts": [
+        8,
+        12,
+        16,
+        24
+      ],
+      "n_init": 10
+    },
+    "hmm": {
+      "states": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "restarts": 5,
+      "iterations": 40,
+      "min_occupancy": 0.01
+    },
+    "bn": {
+      "ess": [
+        5,
+        10,
+        20
+      ],
+      "max_indegree": 2,
+      "small_state": 500,
+      "shrinkage": 200
+    },
+    "fusion": {
+      "negatives": 99,
+      "l2": [
+        0.001,
+        0.01,
+        0.1,
+        1.0
+      ],
+      "cv_folds": 3,
+      "recent_window": 20,
+      "history_windows": [
+        10,
+        20,
+        40
+      ]
+    },
+    "base_paper": {
+      "windows": [
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "neighbors": [
+        10,
+        20,
+        30,
+        40,
+        50
+      ],
+      "iterations": 50,
+      "stationary_power": 100,
+      "epsilon": 1.0,
+      "distance_epsilon": 1e-150
+    }
+  },
+  "source_hash": "a76eeaec179b7ec36d7ab4fa837c811c4c08ba62123aec0fc69530aabd2c7b95",
+  "smoke": false,
+  "refit": true,
+  "train_events": 98114,
+  "validation_events": 943,
+  "test_events": 943,
+  "training_fingerprint": "bbc875b9ba631e513de7ac6e44c23180ecb104cff6a3a657bf9a9484f1ec7ea0",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "versions": {
+    "numpy": "2.3.4",
+    "pandas": "2.3.3",
+    "scipy": "1.16.2",
+    "scikit-learn": "1.7.2",
+    "hmmlearn": "0.3.3",
+    "pgmpy": "1.1.2",
+    "streamlit": "1.67.0",
+    "numba": "0.65.1"
+  }
+}

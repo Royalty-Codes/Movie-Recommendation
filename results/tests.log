@@ -1,0 +1,35 @@
+.............                                                            [100%]
+============================== warnings summary ===============================
+..\..\..\..\..\..\..\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\anyio\pytest_plugin.py:14
+  C:\Users\roydo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\anyio\pytest_plugin.py:14: PytestRemovedIn10Warning: _pytest.python.CallSpec2 has been renamed to CallSpec.
+  The CallSpec2 alias will be removed in pytest 10.
+  Update imports to use CallSpec instead.
+  See https://docs.pytest.org/en/stable/deprecations.html#callspec2-renamed
+    from _pytest.python import CallSpec2
+
+..\..\..\..\..\..\..\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pgmpy\estimators\__init__.py:4
+  C:\Users\roydo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pgmpy\estimators\__init__.py:4: FutureWarning: `pgmpy.estimators.StructureScore` is deprecated and will be removed in v1.3.0. Use `pgmpy.structure_score` instead.
+    from .StructureScore import (
+
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_models.py::test_bn_lookup_with_unobserved_state_values
+  C:\Users\roydo\OneDrive - Amrita vishwa vidyapeetham\Desktop\AI&DS\SEM5\Math\Project\tastetrace\src\tastetrace\bn.py:12: FutureWarning: HillClimbSearch is deprecated and will be removed in v1.3.0. Please use
+              pgmpy.causal_discovery.HillClimbSearch instead.
+    structure=HillClimbSearch(table).estimate(scoring_method='bic-d',max_indegree=max_indegree,show_progress=False)
+
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_models.py::test_bn_lookup_with_unobserved_state_values
+  C:\Users\roydo\OneDrive - Amrita vishwa vidyapeetham\Desktop\AI&DS\SEM5\Math\Project\tastetrace\src\tastetrace\bn.py:16: FutureWarning: `pgmpy.estimators.BayesianEstimator` is deprecated and will be removed in v1.3.0. Please use `pgmpy.parameter_estimator.DiscreteBayesianEstimator` instead.
+    cpds=BayesianEstimator(model,table,state_names=domains).get_parameters(prior_type='BDeu',equivalent_sample_size=ess)
+
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+tests/test_explanations.py::test_explanations_are_grounded_deterministic_and_change_with_profile
+  C:\Users\roydo\OneDrive - Amrita vishwa vidyapeetham\Desktop\AI&DS\SEM5\Math\Project\tastetrace\src\tastetrace\bn.py:52: FutureWarning: `pgmpy.estimators.BayesianEstimator` is deprecated and will be removed in v1.3.0. Please use `pgmpy.parameter_estimator.DiscreteBayesianEstimator` instead.
+    global_cpds=BayesianEstimator(bn,categorical,state_names=domains).get_parameters(prior_type='BDeu',equivalent_sample_size=ess)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+13 passed, 12 warnings in 34.47s

@@ -1,0 +1,12 @@
+{
+  "config_hash": "6a2677c20837731d",
+  "status": "passed",
+  "pages": [
+    "Live recommender",
+    "Side-by-side comparison",
+    "Results dashboard",
+    "How it works"
+  ],
+  "profile_add_remove_reset": "passed on smoke data",
+  "profile_reorder": "verified in browser on smoke data"
+}

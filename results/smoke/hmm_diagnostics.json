@@ -1,0 +1,13 @@
+{
+  "config_hash": "e84d278fd6adbe92",
+  "restarts": [
+    {
+      "requested_states": 3,
+      "states": 3,
+      "restart": 0,
+      "log_likelihood": -20192.772357785983,
+      "min_occupancy": 0.13790553655605878,
+      "valid": true
+    }
+  ]
+}
